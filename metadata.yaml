@@ -1,0 +1,35 @@
+_repo: Pictures-by-Gavarni_64526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gavarni, Paul
+    aliases:
+    - Chevalier, Sulpice Guillaume
+    - Chevalier, William
+    - Chevallier, Guillaume Sulpice
+    - Chevalier, Sulpice-Paul
+    - Chevalier, Hippolyte
+    - Chevalier, Guillaume Sulpice
+    birthdate: 1804
+    deathdate: 1866
+    gutenberg_agent_id: '41793'
+    url: http://www.gutenberg.org/2009/agents/41793
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Gavarni
+    - https://en.wikipedia.org/wiki/Paul_Gavarni
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French wit and humor, Pictorial'
+- !lcsh 'Caricatures and cartoons -- France'
+- !lcc 'NC'
+- GITenberg
+title: Pictures by Gavarni
+url: http://www.gutenberg.org/ebooks/64526
