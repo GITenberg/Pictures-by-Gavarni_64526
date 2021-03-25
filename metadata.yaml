@@ -1,5 +1,8 @@
 _repo: Pictures-by-Gavarni_64526
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64526-h/images/cover.jpg
 creator:
   author:
     agent_name: Gavarni, Paul
@@ -18,6 +21,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paul_Gavarni
     - https://en.wikipedia.org/wiki/Paul_Gavarni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64526#Pictures-by-Gavarni
 gutenberg_issued: '2021-02-12'
 gutenberg_type: Text
 identifiers:
